@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "type": "dup",
+        "amount":5
+    },
+    {
+        "id": 2,
+        "type": "dup",
+        "amount":5
+    },
+    {
+        "id": 3,
+        "type": "e",
+        "amount":5
+    },
+    {
+        "id": 4,
+        "type": "f",
+        "amount":5
+    },
+    {
+        "id": 5,
+        "type": "g",
+        "amount":5
+    },
+    {
+        "id": 6,
+        "type": "h",
+        "amount":5
+    }
+]
